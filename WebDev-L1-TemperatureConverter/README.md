@@ -19,3 +19,7 @@ A responsive temperature converter website that converts temperatures between Ce
 
 ## Author
 Rehan Momin
+
+## Screenshot
+
+![Temperature Converter](images/temperature-converter.png)

@@ -20,3 +20,7 @@ A responsive personal portfolio website created using HTML and CSS.
 
 ## Author
 Rehan Momin
+
+## Screenshot
+
+![Personal Portfolio](images/personal-portfolio.png)

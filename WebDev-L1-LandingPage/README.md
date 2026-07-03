@@ -17,3 +17,7 @@ A responsive gym landing page created using HTML and CSS.
 
 ## Author
 Rehan Momin
+
+## Screenshot
+
+![Landing Page](images/landing-page.png)
